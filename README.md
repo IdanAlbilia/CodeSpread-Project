@@ -10,12 +10,10 @@ cors, dotenv, express, mongodb
 To get the server running -> npm run start (on server.js file)
 
 Frontend:
-To get the app running -> npm run start (on index.js file)
+To get the development server running -> npm run start (on index.js file)
 
 Dependencies:
-react, react-dom, react-scripts, react-color, react-create-use-store, react-icons, react-native-screens
-react-redux, react-router, react-router-dom, react-router-redux, react-store, redux
-
+react, react-dom, react-color, react-icons, react-redux, react-router-dom
 
 Project overview:
 * In general the project was challenging, i wasn't too familiar with React, Redux before this assignment, nevertheless I tried to manage and complete most of the project goals.
