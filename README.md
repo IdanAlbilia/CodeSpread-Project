@@ -1,6 +1,7 @@
 # CodeSpread Project
  
 Backend:
+
 *In order to connect your mongoDB to the project you need to replace the uri variable in the main function in db_util.js file to the path of your local mongoDB.
 
 Dependencies:
